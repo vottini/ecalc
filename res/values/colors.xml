@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="numericNormal">#4a4a4a</color>
+    <color name="numericPressed">#0277bd</color>
+    <color name="operationNormal">#FFFFFF</color>
+    <color name="operationPressed">#cddc39</color>
+    <color name="deletePressed">#FF6F00</color>
+    <color name="clearPressed">#B71C1C</color>
+</resources>
